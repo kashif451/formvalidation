@@ -1,0 +1,51 @@
+/* *{ */
+  /* background-color:  #94ADD7; */
+ 
+
+/* } */
+body{
+    background-color: #ACFADF;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+#error{
+    color: red;
+    margin: 0px;
+    text-align: left;
+}
+.container{ 
+    margin-top: 150px;
+    width: 400px;
+    height: 400px;
+    background-color:#E8FFCE;
+    border: 2px solid ;
+    border-radius: 7%;
+    box-shadow: #7C73C0;
+     /* display: flex;
+    justify-content: center;
+    align-items: center; 
+     */
+}
+#login{
+   margin-left: 140px;
+}
+.form{
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+   
+
+}
+.inp{
+    margin-top: 40px;
+    border-radius: 7px;
+    width:250px;
+    height: 25px;
+}
+#submit{
+    margin-top: 20px;
+   
+}
